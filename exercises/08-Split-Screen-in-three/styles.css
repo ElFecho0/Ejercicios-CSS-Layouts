@@ -3,10 +3,20 @@ body {
 }
 #sectionA {
 	background: blue;
+	width: 100%;
 }
 #sectionB {
 	background: red;
+	width: 100%;
 }
 #sectionC {
 	background: green;
+	width: 100%;
+}
+
+#si {
+	padding: 0px;
+	display: flex;
+	margin: 0px;
+	height: 100vh;
 }
